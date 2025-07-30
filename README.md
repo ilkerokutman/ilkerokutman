@@ -1,6 +1,6 @@
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilkerokutman&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerokutman&layout=compact)
 
 ## Currently Using:
 ![Dart](https://img.shields.io/badge/dart-%230175C2?style=flat&logo=dart&logoColor=white)
